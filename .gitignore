@@ -1,0 +1,7 @@
+/public/
+.env
+.env.backup
+.env.production
+/.idea
+/.vscode
+.htaccess
